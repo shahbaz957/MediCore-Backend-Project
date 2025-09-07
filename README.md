@@ -45,8 +45,8 @@ Hospital_Management_System/
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/hospital-management-system.git
-   cd hospital-management-system
+   git clone https://github.com/shahbaz957/MediCore-Backend-Project.git
+   cd MediCore-Backend-Project
    ```
 
 2. **Install Dependencies**:
